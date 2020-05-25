@@ -1,0 +1,9 @@
+From income income: 1000.0$ 
+From expense expense: 0.0$ 
+From income income: 1000.0$ 
+From expense expense: 0.0$ 
+
+Total income: 2000.0$ 
+Total expense: 0.0$ 
+Balance: 2000.0$ 
+
